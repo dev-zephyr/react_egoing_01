@@ -1,2 +1,2 @@
-# 생활코딩 React 
+# 생활코딩 React Ex
 
