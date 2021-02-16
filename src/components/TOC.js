@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
 
 class TOC extends Component {
+  shouldComponentUpdate() {
+    console.log('shouldComponentUpdate');
+    return true;
+  }
     render(){
         console.log("TOC render ")
         var lists = [];
